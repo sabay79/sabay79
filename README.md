@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saba
-- 👀 I’m interested in Data Analytics, Web Engineering and User Interface Designing.
+- 👀 I’m interested in Software Development, User Interface Designing & Data Analytics.
 - 🌱 I’m currently learning Web Engineering & Data Analytics
 - 📫 linkedin.com/in/saba-yashfeen-887a5a1b9
 
