@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saba
 - 👀 I’m interested in Software Development, User Interface Designing & Data Analytics.
-- 🌱 I’m currently learning ASP.NET Core.
+- 🌱 I’m currently learning ASP.NET Core & React.
 - 📫 linkedin.com/in/saba-yashfeen-887a5a1b9
 
 <!---
